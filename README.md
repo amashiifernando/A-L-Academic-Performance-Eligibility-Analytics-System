@@ -65,7 +65,7 @@ Watch the complete system demonstration:
 
 ---
 
-## 📄 Individual Contribution Report
+## 📄 Individual Contribution Report and Codes
 
 The detailed report describing the implemented enhancements and technical contributions is available in:
 
@@ -80,7 +80,7 @@ The detailed report describing the implemented enhancements and technical contri
 This project is an individual enhancement of the original group project:
 
 ➡️ **Student Performance Analysis**
-[Insert Repository Link Here]
+[(https://github.com/amashiifernando/Student-Performance-Analysis)]
 
 ---
 
