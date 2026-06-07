@@ -62,7 +62,7 @@ One of the key enhancements of this application is the Hybrid Eligibility Predic
 Watch the complete system demonstration:
 
 🎥 Demo Video  
-👉 https://github.com/amashii fernando/A-L-Academic-Performance-Eligibility-Analytics-System/releases/tag/v1.0
+👉 https://github.com/amashiifernando/A-L-Academic-Performance-Eligibility-Analytics-System/releases/tag/v1.0
 
 ---
 
