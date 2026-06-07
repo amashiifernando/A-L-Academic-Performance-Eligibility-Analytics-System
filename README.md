@@ -78,7 +78,8 @@ The detailed report describing the implemented enhancements and technical contri
 This project is an individual enhancement of the original group project:
 
 **Student-Performance-Analysis**
-[main project](https://github.com/amashiifernando/Student-Performance-Analysis)
+
+[View main project](https://github.com/amashiifernando/Student-Performance-Analysis)
 
 ---
 
