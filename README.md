@@ -68,8 +68,6 @@ Watch the complete system demonstration:
 ## 📄 Individual Contribution Report and Codes
 
 The detailed report describing the implemented enhancements and technical contributions is available in:
-
-📄 **Individual_Contribution_Report.pdf**
 * `report/`: Individual report. [View the PDF Report](Individual_Analysis/Individual_contribution_report.pdf)
 
 * `code/`: Python codes. [View Python Code](Individual_Analysis/app.py)
@@ -79,8 +77,8 @@ The detailed report describing the implemented enhancements and technical contri
 
 This project is an individual enhancement of the original group project:
 
-➡️ **Student Performance Analysis**
-[(https://github.com/amashiifernando/Student-Performance-Analysis)]
+**Student-Performance-Analysis**
+https://github.com/amashiifernando/Student-Performance-Analysis
 
 ---
 
