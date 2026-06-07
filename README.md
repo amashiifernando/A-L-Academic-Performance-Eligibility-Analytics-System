@@ -1,161 +1,84 @@
 # 🎓 A/L Academic Performance & Eligibility Analytics System
 
-## 📌 Project Overview
+An interactive Streamlit-based educational analytics dashboard developed as an individual extension of the **Student Performance Analysis** group project.
 
-The **A/L Academic Performance & Eligibility Analytics System** is an interactive data analytics and machine learning application developed using Streamlit.
-
-The system analyzes Sri Lankan G.C.E. Advanced Level examination data and provides insights into student performance, academic stream trends, subject dependencies and university eligibility prediction.
-
-This project combines:
-
-* Data Preprocessing
-* Exploratory Data Analysis (EDA)
-* Statistical Hypothesis Testing
-* Machine Learning
-* Interactive Dashboard Development
-
-The application is built using a stratified sample of the 2020 A/L examination dataset.
+This application transforms statistical analyses into a real-time decision-support system for exploring academic performance patterns and predicting university eligibility using historical 2020 A/L examination data.
 
 ---
 
-## 🎯 Objectives
+## 📌 About This Project
 
-* Analyze academic performance patterns across streams.
-* Visualize Z-score distributions and grade trends.
-* Identify statistical relationships between subjects.
-* Predict university eligibility using Machine Learning.
-* Provide an interactive decision-support tool for educational analytics.
+The original group project focused on statistical analysis of factors associated with university eligibility.
 
----
+This individual work extends that analysis by developing a fully interactive web application that allows users to:
 
-## ⚙️ Technologies Used
-
-### Programming Language
-
-* Python
-
-### Libraries
-
-* Streamlit
-* Pandas
-* NumPy
-* Plotly
-* Scikit-Learn
-* SciPy
-
-### Statistical Techniques
-
-* Descriptive Statistics
-* Chi-Square Test of Independence
-* Logistic Regression Classification
-
-### Machine Learning
-
-* Logistic Regression
-* Train-Test Split
-* Accuracy Evaluation
+* Explore examination data dynamically
+* Perform statistical hypothesis testing
+* Visualize academic performance patterns
+* Predict university eligibility using Machine Learning
+* Apply real-world eligibility rules through a hybrid prediction system
 
 ---
 
-## 📊 Key Features
+## 🚀 Individual Contributions
 
-### 📂 Project & Data Explorer
+### 📊 Interactive Analytics Dashboard
 
-* Overview of the Sri Lankan A/L examination system
-* Key performance indicators
-* Dataset preview
-* Stream and syllabus filtering
+* Developed using Streamlit and Plotly.
+* Added dynamic filtering by academic stream and syllabus type.
+* Designed interactive visualizations for data exploration.
 
-### 📈 Exploratory Analysis
+### 📈 Chi-Square Testing Module
 
-* Candidate distribution by academic stream
-* Z-score performance comparison
-* Interactive grade density heatmap
-* Dynamic filtering capabilities
+* Converted manual Chi-Square analysis into an interactive statistical tool.
+* Allows users to select subject pairs and perform hypothesis testing automatically.
+* Displays p-values, interpretations, and contingency heatmaps.
 
-### 📉 Subject Dependency Analysis
+### 🤖 Logistic Regression Integration
 
-* Chi-Square Test of Independence
-* Automated hypothesis testing
-* P-value interpretation
-* Subject relationship heatmap
+* Implemented a Logistic Regression classification model for eligibility prediction.
+* Applied train-test split methodology.
+* Evaluated model performance using prediction accuracy.
+* Visualized feature importance of subject grades.
 
-### 🤖 Eligibility Model
+### 🎯 Smart-Rule Hybrid Eligibility Predictor
 
-* Logistic Regression classification model
-* Feature importance visualization
-* Model accuracy evaluation
+One of the key enhancements of this application is the Hybrid Eligibility Prediction Engine.
 
-### 🎓 Smart Eligibility Predictor
+#### Rule-Based Validation
 
-A hybrid prediction system combining:
-
-#### Rule-Based Logic
-
-If a student receives an **F grade** in any subject, the system automatically classifies the student as **Ineligible** according to official university admission regulations.
+* Automatically checks whether a student has received an **F grade**.
+* If an F grade is detected, the system immediately returns an **Ineligible** result.
 
 #### Machine Learning Prediction
 
-If all subjects have at least an **S pass**, the Logistic Regression model predicts eligibility probability using historical examination patterns.
-
-This approach ensures predictions remain both statistically meaningful and aligned with real-world admission rules.
-
----
-
-## 📄 Individual Contribution
-
-This application extends the statistical analyses performed in the group project by transforming them into a fully interactive educational analytics platform.
-
-### Contributions
-
-* Implemented Logistic Regression as a real-time eligibility predictor.
-* Developed an interactive Chi-Square testing module.
-* Designed and implemented a Hybrid Eligibility Prediction Engine.
-* Created dynamic filters and interactive visualizations.
-* Integrated machine learning outputs with official university eligibility rules.
-* Developed the Streamlit user interface and dashboard workflow.
-
-Detailed contribution report:
-
-📄 **Individual_Contribution_Report.pdf**
+* If all subjects meet the minimum pass requirement, the Logistic Regression model calculates the probability of eligibility.
+* Combines official admission rules with machine learning predictions to produce realistic results.
 
 ---
 
-## 🎥 Video Demonstration
+## 🎥 Demonstration Video
 
-Watch the complete system demonstration here:
+Watch the complete system demonstration:
 
 🔗 **[Insert Video Link Here]**
 
 ---
 
-## 📊 Dataset
+## 📄 Individual Contribution Report
 
-The project uses a stratified sample dataset derived from the 2020 Sri Lankan Advanced Level examination results.
+The detailed report describing the implemented enhancements and technical contributions is available in:
 
-The dataset is included solely for educational and analytical purposes.
+📄 **Individual_Contribution_Report.pdf**
 
 ---
 
-## 🚀 How to Run the Project
+## 🔗 Related Repository
 
-### Clone Repository
+This project is an individual enhancement of the original group project:
 
-```bash
-git clone https://github.com/yourusername/A-L-Academic-Performance-Eligibility-Analytics-System.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Application
-
-```bash
-streamlit run app.py
-```
+➡️ **Student Performance Analysis**
+[Insert Repository Link Here]
 
 ---
 
@@ -163,7 +86,7 @@ streamlit run app.py
 
 This system is intended for educational and analytical purposes only.
 
-Eligibility predictions are based on historical 2020 examination data and should not be interpreted as official university admission decisions.
+Predictions are generated using historical 2020 examination data and should not be interpreted as official university admission decisions.
 
 Official eligibility is determined by the relevant Sri Lankan higher education authorities.
 
@@ -172,8 +95,6 @@ Official eligibility is determined by the relevant Sri Lankan higher education a
 ## 👩‍💻 Author
 
 **Amashi Fernando**
-
 Final-Year Applied Statistics Undergraduate
 University of Colombo
-
 Sri Lanka
