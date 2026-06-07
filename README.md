@@ -63,8 +63,7 @@ Watch the complete system demonstration:
 
 [Watch Demo Video](https://drive.google.com/file/d/1fvw4lFM8vDBBVh7ATShJoHwS8cxrz64s/view?usp=sharing)
 
-🎥 Demo Video  
-👉 https://github.com/amashiifernando/A-L-Academic-Performance-Eligibility-Analytics-System/releases/tag/v1.0
+[Download Demo Video](https://github.com/amashiifernando/A-L-Academic-Performance-Eligibility-Analytics-System/releases/tag/v1.0)
 
 ---
 
