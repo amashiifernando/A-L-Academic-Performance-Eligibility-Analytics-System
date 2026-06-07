@@ -6,7 +6,7 @@ This application transforms statistical analyses into a real-time decision-suppo
 
 ---
 
-## 📌 About This Project
+## About This Project
 
 The original group project focused on statistical analysis of factors associated with university eligibility.
 
@@ -20,7 +20,7 @@ This individual work extends that analysis by developing a fully interactive web
 
 ---
 
-## 🚀 Individual Contributions
+## Individual Contributions
 
 ### 📊 Interactive Analytics Dashboard
 
@@ -57,7 +57,7 @@ One of the key enhancements of this application is the Hybrid Eligibility Predic
 
 ---
 
-## 🎥 Demonstration Video
+## Demonstration Video
 
 Watch the complete system demonstration:
 
@@ -65,7 +65,7 @@ Watch the complete system demonstration:
 
 ---
 
-## 📄 Individual Contribution Report and Codes
+## Individual Contribution Report and Codes
 
 The detailed report describing the implemented enhancements and technical contributions is available in:
 * `report/`: Individual report. [View the PDF Report](Individual_Analysis/Individual_contribution_report.pdf)
@@ -73,16 +73,16 @@ The detailed report describing the implemented enhancements and technical contri
 * `code/`: Python codes. [View Python Code](Individual_Analysis/app.py)
 ---
 
-## 🔗 Related Repository
+## Related Repository
 
 This project is an individual enhancement of the original group project:
 
 **Student-Performance-Analysis**
-https://github.com/amashiifernando/Student-Performance-Analysis
+[main project](https://github.com/amashiifernando/Student-Performance-Analysis)
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This system is intended for educational and analytical purposes only.
 
@@ -92,9 +92,10 @@ Official eligibility is determined by the relevant Sri Lankan higher education a
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Amashi Fernando**
+
 Final-Year Applied Statistics Undergraduate
 University of Colombo
 Sri Lanka
